@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="Okjvo*8ns^qx`h}4rKzd">lijst</variable></variables><block type="pxt-on-start" id="?dko.z2iCcXf|XjoVo}K" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="hr3/0k5ej3a7dB8ICUKX"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        # # # # #
+        `</field></block></statement></block><block type="device_button_event" id="nva_%1wTH+95v50mc!p*" x="446" y="94"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="controls_repeat_ext" id="Y@#Y+dHc],?s%gNf.7aX"><value name="TIMES"><shadow type="math_whole_number" id="Ni7ritulq0^gQ:pU:~6e"><field name="NUM">1</field></shadow></value></block></statement></block></xml>
